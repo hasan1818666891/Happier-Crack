@@ -1,9 +1,9 @@
 [![welcome-stretch.gif](https://i.postimg.cc/1zHxRJ8b/welcome-stretch.gif)](https://postimg.cc/d7LN4Rm9)
 
 # MENU AND RESULTS
-[![IMG-20220527-065515.jpg](https://i.postimg.cc/x874ZmBx/IMG-20220527-065515.jpg)](https://postimg.cc/Mf75Mn6V)
+[![Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/hvkBHvYr/Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/zHF6hz8b)
 
-[![IMG-20220527-065541.jpg](https://i.postimg.cc/d0mg0LT3/IMG-20220527-065541.jpg)](https://postimg.cc/p9rsGVCM)
+[![IMG-20220527-WA0054.jpg](https://i.postimg.cc/gJMcBYdS/IMG-20220527-WA0054.jpg)](https://postimg.cc/JDkWsCsZ)
 
 
 
