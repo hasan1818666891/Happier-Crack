@@ -1,3 +1,5 @@
+
+
 [![20220527-085909.gif](https://i.postimg.cc/1XhVsGfn/20220527-085909.gif)](https://postimg.cc/TL03cWjf)
 
 
@@ -21,7 +23,7 @@ $ python run.py
 
 # MENU AND RESULTS
 
-[![IMG-20220527-090057.jpg](https://i.postimg.cc/FKVBjpQm/IMG-20220527-090057.jpg)](https://postimg.cc/rdzjTSmY)
+[![Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/hvkBHvYr/Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/zHF6hz8b)
 
 [![IMG-20220527-090115.jpg](https://i.postimg.cc/mDRG4hTZ/IMG-20220527-090115.jpg)](https://postimg.cc/bG65HyG4)
 
