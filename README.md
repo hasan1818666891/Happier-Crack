@@ -1,10 +1,4 @@
-[![welcome-stretch.gif](https://i.postimg.cc/1zHxRJ8b/welcome-stretch.gif)](https://postimg.cc/d7LN4Rm9)
-
-# MENU AND RESULTS
-[![Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/hvkBHvYr/Screenshot-2022-05-27-06-51-52-59-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/zHF6hz8b)
-
-[![IMG-20220527-WA0054.jpg](https://i.postimg.cc/gJMcBYdS/IMG-20220527-WA0054.jpg)](https://postimg.cc/JDkWsCsZ)
-
+[![20220527-085909.gif](https://i.postimg.cc/1XhVsGfn/20220527-085909.gif)](https://postimg.cc/TL03cWjf)
 
 
 # New Tools Facebook
@@ -24,6 +18,12 @@ $ cd Happier-Crack
 $ ls
 
 $ python run.py
+
+# MENU AND RESULTS
+
+[![IMG-20220527-090057.jpg](https://i.postimg.cc/FKVBjpQm/IMG-20220527-090057.jpg)](https://postimg.cc/rdzjTSmY)
+
+[![IMG-20220527-090115.jpg](https://i.postimg.cc/mDRG4hTZ/IMG-20220527-090115.jpg)](https://postimg.cc/bG65HyG4)
 
 
 [![programmer.gif](https://i.postimg.cc/GtwRf9Vj/programmer.gif)](https://postimg.cc/qhLWhBkt)
